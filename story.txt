@@ -1,0 +1,3 @@
+"hello, this is my new folder. But lets make this better."
+"It wont contain much, just basically this. Lets make a change!"
+"And this is the end!"
